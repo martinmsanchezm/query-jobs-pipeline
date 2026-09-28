@@ -1,0 +1,56 @@
+{
+  "jobs": [
+    {
+      "id": 4001,
+      "internal_job_id": 104001,
+      "title": "Senior Data Engineer (Remote - LATAM)",
+      "absolute_url": "https://careers.northwind.example/jobs/4001",
+      "location": {
+        "name": "Remote - Latin America"
+      },
+      "company_name": "Northwind Data",
+      "first_published": "2026-09-25T14:00:00-04:00",
+      "updated_at": "2026-09-25T14:00:00-04:00",
+      "content": "&lt;p&gt;Northwind Data is hiring a &lt;strong&gt;Senior Data Engineer&lt;/strong&gt; to own our batch pipelines.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;5+ years building pipelines in Python and SQL&lt;/li&gt;&lt;li&gt;Airflow and dbt in production&lt;/li&gt;&lt;li&gt;Snowflake on AWS&lt;/li&gt;&lt;/ul&gt;"
+    },
+    {
+      "id": 4002,
+      "internal_job_id": 104002,
+      "title": "Analytics Engineer",
+      "absolute_url": "https://careers.northwind.example/jobs/4002",
+      "location": {
+        "name": "Remote"
+      },
+      "company_name": "Northwind Data",
+      "first_published": "2026-09-24T09:30:00-04:00",
+      "updated_at": "2026-09-24T09:30:00-04:00",
+      "content": "&lt;p&gt;Model our warehouse with SQL and dbt and build Looker dashboards. 3+ years of experience.&lt;/p&gt;"
+    },
+    {
+      "id": 4003,
+      "internal_job_id": 104003,
+      "title": "Office Manager",
+      "absolute_url": "https://careers.northwind.example/jobs/4003",
+      "location": {
+        "name": "New York, NY"
+      },
+      "company_name": "Northwind Data",
+      "first_published": "2026-09-23T10:00:00-04:00",
+      "updated_at": "2026-09-23T10:00:00-04:00",
+      "content": "&lt;p&gt;On-site role.&lt;/p&gt;"
+    },
+    {
+      "id": 4004,
+      "internal_job_id": 104004,
+      "title": "Data Engineer",
+      "absolute_url": "https://careers.northwind.example/jobs/4004",
+      "location": {
+        "name": "Hybrid - Austin, TX"
+      },
+      "company_name": "Northwind Data",
+      "first_published": "2026-09-26T11:00:00-05:00",
+      "updated_at": "2026-09-26T11:00:00-05:00",
+      "content": "&lt;p&gt;Hybrid role in Austin: Python, Spark, AWS.&lt;/p&gt;"
+    }
+  ]
+}

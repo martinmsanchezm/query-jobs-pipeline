@@ -1,0 +1,10 @@
+# Company names for the sample ATS boards (all companies are fictional).
+
+[boards.greenhouse]
+northwind = "Northwind Data"
+
+[boards.lever]
+tailspin = "Tailspin Analytics"
+
+[boards.ashby]
+proseware = "Proseware"

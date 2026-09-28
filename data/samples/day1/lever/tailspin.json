@@ -1,0 +1,58 @@
+[
+  {
+    "id": "a1f3c2d4-0000-4000-8000-000000000001",
+    "text": "Data Engineer II",
+    "hostedUrl": "https://jobs.tailspin.example/tailspin/a1f3c2d4-0000-4000-8000-000000000001",
+    "workplaceType": "remote",
+    "categories": {
+      "location": "Remote - Americas",
+      "commitment": "Full-time",
+      "team": "Data"
+    },
+    "createdAt": 1790427600000,
+    "salaryRange": {
+      "min": 95000,
+      "max": 125000,
+      "currency": "USD",
+      "interval": "per-year-salary"
+    },
+    "descriptionPlain": "Tailspin Analytics is looking for a Data Engineer II to grow our event pipelines on AWS.",
+    "lists": [
+      {
+        "text": "Requirements",
+        "content": "<li>3+ years with Python and Spark</li><li>Kafka or another streaming platform</li><li>AWS</li>"
+      }
+    ],
+    "additionalPlain": "Fully remote within the Americas."
+  },
+  {
+    "id": "b2e4f6a8-0000-4000-8000-000000000002",
+    "text": "Staff Data Platform Engineer",
+    "hostedUrl": "https://jobs.tailspin.example/tailspin/b2e4f6a8-0000-4000-8000-000000000002",
+    "workplaceType": "remote",
+    "categories": {
+      "location": "Remote",
+      "commitment": "Full-time"
+    },
+    "createdAt": 1790341200000,
+    "salaryRange": {
+      "min": 180000,
+      "max": 220000,
+      "currency": "USD",
+      "interval": "per-year-salary"
+    },
+    "descriptionPlain": "Lead our data platform: Databricks, Spark, Terraform and Kubernetes. 8+ years of experience.",
+    "lists": []
+  },
+  {
+    "id": "c3d5e7f9-0000-4000-8000-000000000003",
+    "text": "Product Designer",
+    "hostedUrl": "https://jobs.tailspin.example/tailspin/c3d5e7f9-0000-4000-8000-000000000003",
+    "workplaceType": "remote",
+    "categories": {
+      "location": "Remote"
+    },
+    "createdAt": 1790341200000,
+    "descriptionPlain": "Design our analytics product."
+  }
+]
