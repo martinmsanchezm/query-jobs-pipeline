@@ -1,0 +1,52 @@
+{
+  "jobs": [
+    {
+      "id": 9101,
+      "url": "https://careers.northwind.example/jobs/4001/?utm_source=remotive&utm_medium=feed",
+      "title": "Senior Data Engineer (Remote - LATAM)",
+      "company_name": "Northwind Data, Inc.",
+      "category": "Data",
+      "job_type": "full_time",
+      "publication_date": "2026-09-25T18:00:00",
+      "candidate_required_location": "Latin America",
+      "salary": "",
+      "description": "<p>Senior Data Engineer: Python, SQL, Airflow, dbt, Snowflake, AWS.</p>"
+    },
+    {
+      "id": 9102,
+      "url": "https://remotive.example/remote-jobs/data/9102",
+      "title": "Data Engineer",
+      "company_name": "Contoso Logistics",
+      "category": "Data",
+      "job_type": "full_time",
+      "publication_date": "2026-09-26T12:00:00",
+      "candidate_required_location": "Worldwide",
+      "salary": "$80k - $100k",
+      "description": "<p>Build ELT pipelines with Airflow and Python on AWS. PostgreSQL experience. 4 years of experience.</p>"
+    },
+    {
+      "id": 9103,
+      "url": "https://remotive.example/remote-jobs/data/9103",
+      "title": "Big Data Engineer",
+      "company_name": "Litware",
+      "category": "Data",
+      "job_type": "full_time",
+      "publication_date": "2027-03-01T00:00:00",
+      "candidate_required_location": "Worldwide",
+      "salary": "",
+      "description": "<p>Spark and Scala.</p>"
+    },
+    {
+      "id": 9104,
+      "url": "",
+      "title": "Data Engineer",
+      "company_name": "Woodgrove Bank",
+      "category": "Data",
+      "job_type": "full_time",
+      "publication_date": "2026-09-26T08:00:00",
+      "candidate_required_location": "Worldwide",
+      "salary": "",
+      "description": "<p>SQL.</p>"
+    }
+  ]
+}

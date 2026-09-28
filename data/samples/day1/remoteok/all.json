@@ -1,0 +1,52 @@
+[
+  {
+    "legal": "Sample payload. The real API requires a link back to RemoteOK."
+  },
+  {
+    "id": "77001",
+    "epoch": 1790506000,
+    "company": "Wingtip Data",
+    "position": "Data Engineer",
+    "tags": [
+      "data"
+    ],
+    "description": "<p>Snowflake, dbt and Python. Docker. 5 years of experience.</p>",
+    "location": "Worldwide",
+    "salary_min": 90000,
+    "salary_max": 120000,
+    "url": "https://remoteok.example/remote-jobs/77001"
+  },
+  {
+    "id": "77002",
+    "epoch": 1790516000,
+    "company": "Adventure Works",
+    "position": "Senior Analytics Engineer",
+    "tags": [
+      "data"
+    ],
+    "description": "<p>Looker, dbt and BigQuery for our analytics team.</p>",
+    "location": "Worldwide",
+    "salary_min": 0,
+    "salary_max": 0,
+    "url": "https://remoteok.example/remote-jobs/77002"
+  },
+  {
+    "id": "77003",
+    "epoch": 1790526000,
+    "company": "Litware",
+    "position": "Data Engineer",
+    "tags": [
+      "data"
+    ],
+    "description": "<p>Python.</p>",
+    "location": "Worldwide",
+    "salary_min": 0,
+    "salary_max": 0,
+    "url": "javascript:void(0)"
+  },
+  {
+    "id": "77004",
+    "epoch": 1790526000,
+    "company": "Fabrikam Health"
+  }
+]

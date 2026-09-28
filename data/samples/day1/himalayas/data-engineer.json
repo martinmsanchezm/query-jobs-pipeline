@@ -1,0 +1,40 @@
+{
+  "jobs": [
+    {
+      "guid": "https://himalayas.example/companies/tailspin/jobs/data-engineer-ii",
+      "title": "Data Engineer II",
+      "companyName": "Tailspin Analytics",
+      "applicationLink": "https://jobs.tailspin.example/tailspin/a1f3c2d4-0000-4000-8000-000000000001/?lever-source=himalayas",
+      "minSalary": 95000,
+      "maxSalary": 125000,
+      "currency": "USD",
+      "locationRestrictions": [
+        "United States",
+        "Canada"
+      ],
+      "timezoneRestrictions": [
+        -5,
+        -8
+      ],
+      "pubDate": 1790426000,
+      "description": "<p>Python, Spark, Kafka and AWS.</p>"
+    },
+    {
+      "guid": "https://himalayas.example/companies/woodgrove/jobs/senior-data-engineer",
+      "title": "Senior Data Engineer",
+      "companyName": "Woodgrove Bank",
+      "applicationLink": "https://careers.woodgrove.example/jobs/senior-data-engineer",
+      "minSalary": 140000,
+      "maxSalary": 170000,
+      "currency": "USD",
+      "salaryPeriod": "annual",
+      "locationRestrictions": [
+        "United States"
+      ],
+      "timezoneRestrictions": [],
+      "pubDate": 1790436000,
+      "description": "<p>Streaming platform on Kafka and Flink with Java. 7+ years.</p>"
+    }
+  ],
+  "limit": 20
+}
