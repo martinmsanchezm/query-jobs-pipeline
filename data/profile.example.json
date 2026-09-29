@@ -1,0 +1,8 @@
+{
+  "name": "Alex Rivera (fictional example)",
+  "headline": "Data Engineer",
+  "seniority": "senior",
+  "skills": ["Python", "SQL", "Airflow", "dbt", "Spark", "Snowflake", "AWS", "Docker", "Terraform", "Kafka"],
+  "min_salary_usd": 70000,
+  "summary": "Fictional profile used to demonstrate affinity scoring. Six years building batch and streaming pipelines on AWS with Airflow, dbt and Spark."
+}
