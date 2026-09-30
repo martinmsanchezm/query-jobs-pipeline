@@ -1,0 +1,19 @@
+# Live mode (`qjp run --live`): what to query on the public APIs.
+
+# Search terms for the job boards that take a query (Remotive, Jobicy, Himalayas).
+roles = ["Data Engineer", "Analytics Engineer"]
+
+# Public company boards on each ATS: slug = company name.
+# Any company that publishes its board on these ATS works; add or remove freely.
+[boards.greenhouse]
+databricks = "Databricks"
+gitlab = "GitLab"
+
+[boards.lever]
+palantir = "Palantir"
+spotify = "Spotify"
+
+[boards.ashby]
+ramp = "Ramp"
+notion = "Notion"
+linear = "Linear"

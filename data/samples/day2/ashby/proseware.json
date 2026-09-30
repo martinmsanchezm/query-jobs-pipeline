@@ -1,0 +1,54 @@
+{
+  "jobs": [
+    {
+      "id": "ps-1001",
+      "title": "Senior Data Engineer",
+      "location": "Remote (US)",
+      "secondaryLocations": [],
+      "workplaceType": "Remote",
+      "isRemote": true,
+      "isListed": true,
+      "publishedAt": "2026-09-26T10:00:00.000+00:00",
+      "jobUrl": "https://jobs.proseware.example/proseware/ps-1001",
+      "applyUrl": "https://jobs.proseware.example/proseware/ps-1001/application",
+      "descriptionPlain": "Own our analytics platform on GCP: BigQuery, Dagster and Python. 6+ years of experience.",
+      "compensation": {
+        "compensationTierSummary": "$150K - $180K",
+        "summaryComponents": [
+          {
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 150000,
+            "maxValue": 180000
+          }
+        ]
+      }
+    },
+    {
+      "id": "ps-1004",
+      "title": "Analytics Engineer",
+      "location": "Remote (US)",
+      "secondaryLocations": [],
+      "workplaceType": "Remote",
+      "isRemote": true,
+      "isListed": true,
+      "publishedAt": "2026-09-29T10:00:00.000+00:00",
+      "jobUrl": "https://jobs.proseware.example/proseware/ps-1004",
+      "applyUrl": "https://jobs.proseware.example/proseware/ps-1004/application",
+      "descriptionPlain": "SQL, dbt and BigQuery. 4 years of experience.",
+      "compensation": {
+        "compensationTierSummary": "$110K - $135K",
+        "summaryComponents": [
+          {
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 110000,
+            "maxValue": 135000
+          }
+        ]
+      }
+    }
+  ]
+}

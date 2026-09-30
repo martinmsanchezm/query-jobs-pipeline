@@ -1,0 +1,33 @@
+[
+  {
+    "legal": "Sample payload. The real API requires a link back to RemoteOK."
+  },
+  {
+    "id": "77001",
+    "epoch": 1790506000,
+    "company": "Wingtip Data",
+    "position": "Data Engineer",
+    "tags": [
+      "data"
+    ],
+    "description": "<p>Snowflake, dbt and Python. Docker. 5 years of experience.</p>",
+    "location": "Worldwide",
+    "salary_min": 90000,
+    "salary_max": 120000,
+    "url": "https://remoteok.example/remote-jobs/77001"
+  },
+  {
+    "id": "77005",
+    "epoch": 1790686000,
+    "company": "Litware",
+    "position": "Data Platform Engineer",
+    "tags": [
+      "data"
+    ],
+    "description": "<p>Terraform, Kubernetes and Spark on Azure.</p>",
+    "location": "Worldwide",
+    "salary_min": 120000,
+    "salary_max": 150000,
+    "url": "https://remoteok.example/remote-jobs/77005"
+  }
+]

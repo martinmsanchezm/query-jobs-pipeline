@@ -1,0 +1,38 @@
+{
+  "jobs": [
+    {
+      "id": 5501,
+      "url": "https://jobicy.example/jobs/5501",
+      "jobTitle": "Data Engineer",
+      "companyName": "Fabrikam Health",
+      "jobGeo": "USA, Canada",
+      "jobLevel": "Any",
+      "jobType": [
+        "full-time"
+      ],
+      "pubDate": "2026-09-27 09:00:00",
+      "annualSalaryMin": "110000",
+      "annualSalaryMax": "130000",
+      "salaryCurrency": "USD",
+      "jobExcerpt": "<p>Healthcare data pipelines with Python, Spark and Azure.</",
+      "jobDescription": "<p>Healthcare data pipelines with Python, Spark and Azure.</p>"
+    },
+    {
+      "id": 5502,
+      "url": "https://jobicy.example/jobs/5502",
+      "jobTitle": "ETL Developer",
+      "companyName": "Adventure Works",
+      "jobGeo": "USA, Canada",
+      "jobLevel": "Any",
+      "jobType": [
+        "full-time"
+      ],
+      "pubDate": "2026-09-26 15:00:00",
+      "annualSalaryMin": "70000",
+      "annualSalaryMax": "85000",
+      "salaryCurrency": "USD",
+      "jobExcerpt": "<p>SQL, Python, Azure and Fivetran.</p>",
+      "jobDescription": "<p>SQL, Python, Azure and Fivetran.</p>"
+    }
+  ]
+}

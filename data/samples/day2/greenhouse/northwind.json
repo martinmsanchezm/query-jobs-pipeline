@@ -1,0 +1,30 @@
+{
+  "jobs": [
+    {
+      "id": 4001,
+      "internal_job_id": 104001,
+      "title": "Senior Data Engineer (Remote - LATAM)",
+      "absolute_url": "https://careers.northwind.example/jobs/4001",
+      "location": {
+        "name": "Remote - Latin America"
+      },
+      "company_name": "Northwind Data",
+      "first_published": "2026-09-25T14:00:00-04:00",
+      "updated_at": "2026-09-25T14:00:00-04:00",
+      "content": "&lt;p&gt;Northwind Data is hiring a &lt;strong&gt;Senior Data Engineer&lt;/strong&gt; to own our batch pipelines.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;5+ years building pipelines in Python and SQL&lt;/li&gt;&lt;li&gt;Airflow and dbt in production&lt;/li&gt;&lt;li&gt;Snowflake on AWS&lt;/li&gt;&lt;/ul&gt;"
+    },
+    {
+      "id": 4005,
+      "internal_job_id": 104005,
+      "title": "Data Engineer, Streaming",
+      "absolute_url": "https://careers.northwind.example/jobs/4005",
+      "location": {
+        "name": "Remote - Americas"
+      },
+      "company_name": "Northwind Data",
+      "first_published": "2026-09-29T16:00:00-04:00",
+      "updated_at": "2026-09-29T16:00:00-04:00",
+      "content": "&lt;p&gt;Build real-time pipelines with Kafka, Flink and Spark. Python or Scala.&lt;/p&gt;"
+    }
+  ]
+}
