@@ -17,7 +17,9 @@ import httpx
 
 from . import __version__
 
-USER_AGENT = f"query-jobs-pipeline/{__version__} (+https://github.com/nensanc/query-jobs-pipeline)"
+USER_AGENT = (
+    f"query-jobs-pipeline/{__version__} (+https://github.com/martinmsanchezm/query-jobs-pipeline)"
+)
 RETRYABLE = frozenset({429, 500, 502, 503, 504})
 MAX_WAIT_SECONDS = 30.0
 

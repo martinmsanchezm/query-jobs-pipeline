@@ -148,7 +148,7 @@ The demo replays two saved days with a **fixed clock** (2026-09-29 and 2026-09-3
 Requires Python 3.12.
 
 ```bash
-git clone https://github.com/nensanc/query-jobs-pipeline.git
+git clone https://github.com/martinmsanchezm/query-jobs-pipeline.git
 cd query-jobs-pipeline
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -e ".[dev,ai]"
@@ -266,7 +266,7 @@ query-jobs-pipeline/
 
 ## Author
 
-**Martin Sanchez** ([@nensanc](https://github.com/nensanc))
+**Martin Sanchez** ([@martinmsanchezm](https://github.com/martinmsanchezm))
 
 ## License
 
